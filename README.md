@@ -7,6 +7,8 @@ This impedance measurement PCB can be mounted on a National Instruments PXI Syst
  
 ![](https://latex.codecogs.com/svg.latex?\Large&space;\color{white}{Z_{x}=\frac{V_{A2}}{I}=\frac{V_{A2}}{V_{A1}-V_{A2}}R_{ref})
 
+The Inventor part "spacer1" can be used to offset the SMB female socket.
+
 
 <img src="https://github.com/m3-learning/Impedance_Measurement_System_for_High-Speed_Cell_Sorting/blob/main/renders/schematic.PNG" alt="drawing" width="360"/>
 
