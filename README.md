@@ -7,7 +7,7 @@ This PCB can be mounted on a National Instruments PXI with a PXI-5412 arbitrary 
 
 
 
-<img src="https://github.com/m3-learning/Impedance_Measurement_System_for_High-Speed_Cell_Sorting/blob/main/renders/schematic.PNG" alt="drawing" width="400"/>
+<img src="https://github.com/m3-learning/Impedance_Measurement_System_for_High-Speed_Cell_Sorting/blob/main/renders/schematic.PNG" alt="drawing" width="360"/>
 
 <img src="https://github.com/m3-learning/Impedance_Measurement_System_for_High-Speed_Cell_Sorting/blob/main/renders/impedance_pcb.PNG" alt="drawing" width="650"/>
 
